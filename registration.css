@@ -1,0 +1,30 @@
+.s_section1{
+    height: 650px;
+    width: 100%;
+    /* background-image: url("cc.jpg"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: lightpink;
+    
+}
+.header{
+    height:65px;
+    width: 100%;
+    background-color: black;
+    color: blanchedalmond;
+    display: flex;
+}
+.hediv{
+    width: 326px;
+    margin: 0;
+
+}
+.h1{
+    margin-left: 500px;
+    
+}
+.class1{
+    margin-left: 326px;
+     display: block;
+}
