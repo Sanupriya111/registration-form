@@ -1,0 +1,22 @@
+.t-section1{
+    height: 750px;
+    width: 100%;
+}
+.header{
+    height:65px;
+    width: 100%;
+    display: flex;
+    
+}
+.img{
+    margin-left: 500px;
+    border-radius: 50px;
+    height: 200px;
+    width: 200px;
+}
+.textbox{
+    height:40px;
+     width: 500px; 
+     margin-top: 20px;
+     margin-left: 400px;
+}
